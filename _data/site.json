@@ -1,0 +1,19 @@
+{   
+    "socials": {
+        "twitter": "https://twitter.com/tannerdolby",
+        "linkedin": "https://linkedin.com/in/tanner-dolby",
+        "dribbble": "https://dribbble.com/tannerdolby"
+    },
+    "pageMetadata": {
+        "home": {   
+            "content": "Welcome! This is currently a photo gallery template with images provided by Pexels. Built with the static site generator Eleventy. Replace my name with yours above if you've cloned the starter repository. Always make sure to have a meta description tag with content for each page to improve SEO. Feel free to update this description with any content of your choosing."
+        },
+        "featured": {
+            "content": "Featured image from (Your name here)'s image gallery on the home page. This seperate page contains more about the image itself, a link to where someone can find it, author/creditor. Oh ya, I almost forgot! Make sure to replace my name with yours when updating this meta description tag."
+        },
+        "about": {
+            "content": "Your reading the about me page for (your name here). This template is currently the default version so add your own about me page info here."
+        }
+
+    }
+}

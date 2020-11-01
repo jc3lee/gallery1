@@ -1,0 +1,6 @@
+_site
+node_modules
+.DS_store
+
+# Eleventy cached API results from speedlify json
+.cache
