@@ -33,6 +33,6 @@
     "@11ty/eleventy-cache-assets": "^2.0.3",
     "clean-css": "^4.2.3",
     "sharp": "^0.25.4",
-    "terser": "^5.3.3"
+    "terser": "^5.14.2"
   }
 }
